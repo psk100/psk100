@@ -12,7 +12,7 @@
 
 - 📫 How to reach me ---> **pawansakhare.pss@gmail.com**
   
-- 📄 Know about my experiences ---> **Have around 2.5 years of working experience at General Electric primarily focusing on manufacturing domain.**
+- 📄 Know about my experiences ---> **Have 3years Python Programming**
 
 - 📝 Certification ---> **Data Science and AI(Nasscom ⭐) | Python(Nasscom ⭐) | SQL(Hackerrank) | Lean Six Sigma Green Belt(KPMG) | Six Sigma Yellow Belt(6sigmastudy)**
   
